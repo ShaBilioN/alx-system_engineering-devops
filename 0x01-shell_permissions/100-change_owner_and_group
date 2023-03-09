@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent:staff --recursion .
+chown vincent:staff --recursive .
